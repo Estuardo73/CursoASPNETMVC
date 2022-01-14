@@ -12,6 +12,8 @@ namespace CapaAdmin
                         "~/Scripts/jquery-{version}.js"));
             bundles.Add(new Bundle("~/bundles/complementos").Include(
                         "~/Scripts/fontawesome/all.min.js",
+                        "~/Scripts/DataTables/jquery.dataTables.js",
+                        "~/Scripts/DataTables/dataTables.responsive.js",
                         "~/Scripts/scripts.js"));
 
             /* bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
@@ -25,8 +27,12 @@ namespace CapaAdmin
             bundles.Add(new Bundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.bundle.js"));
 
-            bundles.Add(new StyleBundle("~/Content/css").Include(                      
-                      "~/Content/site.css"));
+            bundles.Add(new StyleBundle("~/Content/css").Include(
+                      "~/Content/site.css",
+                      "~/Content/dataTables/css/jquery.dataTables.css",
+                      "~/Content/dataTables/css/responsive.dataTables.css"
+                      ));
+
         }
     }
 }

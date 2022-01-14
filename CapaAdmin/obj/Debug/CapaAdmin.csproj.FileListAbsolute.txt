@@ -84,3 +84,9 @@ E:\Solucion1\CursoMVC\CapaAdmin\obj\Debug\CapaAdmin.csproj.CoreCompileInputs.cac
 E:\Solucion1\CursoMVC\CapaAdmin\obj\Debug\CapaAdmin.csproj.CopyComplete
 E:\Solucion1\CursoMVC\CapaAdmin\obj\Debug\CapaAdmin.dll
 E:\Solucion1\CursoMVC\CapaAdmin\obj\Debug\CapaAdmin.pdb
+E:\Solucion1\CursoMVC\CapaAdmin\bin\CapaEntidad.dll
+E:\Solucion1\CursoMVC\CapaAdmin\bin\CapaNegocio.dll
+E:\Solucion1\CursoMVC\CapaAdmin\bin\CapaDatos.dll
+E:\Solucion1\CursoMVC\CapaAdmin\bin\CapaEntidad.pdb
+E:\Solucion1\CursoMVC\CapaAdmin\bin\CapaNegocio.pdb
+E:\Solucion1\CursoMVC\CapaAdmin\bin\CapaDatos.pdb

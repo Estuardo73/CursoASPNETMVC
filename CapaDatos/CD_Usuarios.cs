@@ -1,4 +1,4 @@
-﻿using CapaEntidad;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
+using CapaEntidad;
 
 
 
@@ -20,7 +21,7 @@ namespace CapaDatos
             {
                 using (SqlConnection oconexion = new SqlConnection(Conexion.cn))
                 {
-                    string query = "SELECT IdUsuario,Nombres,Apellidos,Correo,Clave,Restablecer,Activo FROM USUARIO";
+                    string query = "SELECT IdUsuario,Nombres,Apellidos,Correo,Clave,Reestablecer,Activo FROM USUARIO";
                     SqlCommand cmd = new SqlCommand(query, oconexion);
                     cmd.CommandType = CommandType.Text;
                     oconexion.Open();
@@ -36,7 +37,7 @@ namespace CapaDatos
                                     Apellidos = dr["Apellidos"].ToString(),
                                     Correo = dr["Correo"].ToString(),
                                     Clave = dr["Clave"].ToString(),
-                                    Restablecer = Convert.ToBoolean(dr["Restablecer"]),
+                                    Reestablecer = Convert.ToBoolean(dr["Reestablecer"]),
                                     Activo = Convert.ToBoolean(dr["Activo"])
                                 }
                             );

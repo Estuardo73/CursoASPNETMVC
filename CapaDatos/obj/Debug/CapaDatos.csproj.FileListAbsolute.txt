@@ -1,0 +1,9 @@
+E:\Solucion1\CursoMVC\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Solucion1\CursoMVC\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Solucion1\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\Solucion1\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\Solucion1\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\Solucion1\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Solucion1\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\Solucion1\CursoMVC\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Solucion1\CursoMVC\CapaDatos\obj\Debug\CapaDatos.pdb
