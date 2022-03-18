@@ -21,5 +21,12 @@ namespace CapaAdmin.Controllers
         {
             return View();
         }
+
+        public ActionResult Inicio()
+        {
+            return View();
+        }
+  
+
     }
 }

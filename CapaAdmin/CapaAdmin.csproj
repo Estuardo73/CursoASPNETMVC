@@ -198,6 +198,7 @@
     <Content Include="Content\DataTables\css\dataTables.semanticui.min.css" />
     <Content Include="Content\DataTables\css\dataTables.uikit.css" />
     <Content Include="Content\DataTables\css\dataTables.uikit.min.css" />
+    <Content Include="Content\DataTables\css\EstilosCuestionario.css" />
     <Content Include="Content\DataTables\css\fixedColumns.bootstrap.css" />
     <Content Include="Content\DataTables\css\fixedColumns.bootstrap.min.css" />
     <Content Include="Content\DataTables\css\fixedColumns.bootstrap4.css" />
@@ -318,6 +319,19 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="imagenes\consultorio.png" />
+    <Content Include="imagenes\debilidad.png" />
+    <Content Include="imagenes\entrada.png" />
+    <Content Include="imagenes\foot1.jpg" />
+    <Content Include="imagenes\foot2.png" />
+    <Content Include="imagenes\fortaleza.png" />
+    <Content Include="imagenes\foto1.png" />
+    <Content Include="imagenes\foto2.png" />
+    <Content Include="imagenes\gracias.png" />
+    <Content Include="imagenes\Grupo 47.png" />
+    <Content Include="imagenes\hospital.png" />
+    <Content Include="imagenes\otro.png" />
+    <Content Include="imagenes\puntoventa.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -482,6 +496,7 @@
     <Content Include="Views\Mantenedor\Categoria.cshtml" />
     <Content Include="Views\Mantenedor\Marca.cshtml" />
     <Content Include="Views\Mantenedor\Producto.cshtml" />
+    <Content Include="Views\Mantenedor\inicio.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

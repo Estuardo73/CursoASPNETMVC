@@ -1,0 +1,21 @@
+﻿body {
+    top: 0px;
+    left: 0px;
+    width: 2048px;
+    height: 1080px;
+    background: #F6F8FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+titulos {
+    top: 97px;
+    left: 411px;
+    width: 1227px;
+    height: 57px;
+    text-align: left;
+    font: normal normal bold 57px/68px Sofia Pro Soft;
+    letter-spacing: -1.14px;
+    color: #000000;
+    opacity: 1;
+}
+
